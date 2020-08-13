@@ -1,0 +1,6 @@
+{
+  "names": ["ZF axioms"],
+  "indexable": false,
+  "language": "INFORMAL",
+  "statement": "Convenient proposition to represent all axioms in Zermelo–Fraenkel set theory."
+}

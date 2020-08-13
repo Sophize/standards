@@ -1,0 +1,5 @@
+{
+  "indexable": false,
+  "premises": ["#P_expert_curated"],
+  "conclusion": "#P_planetmath"
+}

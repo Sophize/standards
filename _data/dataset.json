@@ -1,0 +1,20 @@
+{
+  "name": "Standards",
+  "description": "Maintains knowledge verification standards for various data sources",
+  "bannerUrl": "",
+  "iconUrl": "https://cdn.jsdelivr.net/npm/material-letter-icons@1.0.8/dist/svg/S.svg",
+  "licenses": [
+    {
+      "licenseType": "CC_BY",
+      "linkToLicense": "https://creativecommons.org/licenses/by/4.0/legalcode"  
+    }
+  ],
+  "openAcls": [
+    "READ_DATA",
+    "COMMENT"
+  ],
+  "localAutoApproveArguments": true,
+  "personalDataset": false,
+  "subscribedDatasets": [],
+  "tags": []
+}

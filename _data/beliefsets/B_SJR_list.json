@@ -1,0 +1,6 @@
+{
+  "indexable": false,
+  "names": ["SJR list"],
+  "description": "SCImago Journal Ranks",
+  "unsupportedPropositionPtrs": ["#P_ANT_SJR", "#P_discrete_analysis_SJR"]
+}

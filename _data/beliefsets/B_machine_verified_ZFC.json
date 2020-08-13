@@ -1,0 +1,6 @@
+{
+  "indexable": true,
+  "names": ["Expert Curated (ZF only)"],
+  "description": "Belief in knowledge machine-verified by mainstream proof verifiers - arising from #P_ZFC foundations",
+  "unsupportedPropositionPtrs": ["#P_ZF", "#P_axiom_of_choice"]
+}

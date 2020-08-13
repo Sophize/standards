@@ -1,0 +1,5 @@
+{
+  "indexable": false,
+  "premises": ["#P_ANT_SJR"],
+  "conclusion": "#P_ANT_reliable"
+}

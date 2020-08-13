@@ -1,0 +1,7 @@
+{
+  "indexable": true,
+  "names": ["Peer reviewed"],
+  "description": "Belief in mathematical knowledge verified peer-review arising from #P_ZFC foundations.",
+  "unsupportedPropositionPtrs": ["#P_peer_reviewed", "#P_expert_curated", "#P_ZF", "#P_axiom_of_choice"],
+  "subBeliefsetPtrs": ["#B_SJR_list"]
+}

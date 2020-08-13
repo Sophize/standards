@@ -1,0 +1,6 @@
+{
+    "indexable": false,
+    "premises": ["#P_ZF", "#P_axiom_of_choice"],
+    "conclusion": "#P_ZFC"
+  }
+  

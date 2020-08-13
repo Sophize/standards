@@ -1,0 +1,6 @@
+{
+  "names": ["Axiom of choice"],
+  "indexable": false,
+  "language": "INFORMAL",
+  "statement": "For any set $X$ of nonempty sets, there exists a choice function $f$ defined on $X$. Here, a choice function is a function $f$, defined on a collection $X$ of nonempty sets, such that for every set $A$ in $X$, $f(A)$ is an element of $A$."
+}

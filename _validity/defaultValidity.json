@@ -1,0 +1,16 @@
+{
+  "localValidity": {
+    "validityStatus": "AUTO_APPROVED",
+    "justification": "Default dataset validity",
+    "updater": {
+      "handle": "abc"
+    }
+  },
+  "globalValidity": {
+    "validityStatus": "AUTO_APPROVED",
+    "justification": "All information curated and verified by Sophize Foundation",
+    "updater": {
+      "handle": "abc"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "indexable": false,
+  "premises": ["#P_peer_reviewed", "#P_discrete_analysis_reliable"],
+  "conclusion": "#P_discrete_analysis"
+}

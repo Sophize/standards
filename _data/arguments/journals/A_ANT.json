@@ -1,0 +1,5 @@
+{
+  "indexable": false,
+  "premises": ["#P_peer_reviewed", "#P_ANT_reliable"],
+  "conclusion": "#P_ANT"
+}
