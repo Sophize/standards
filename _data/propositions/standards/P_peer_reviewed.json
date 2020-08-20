@@ -1,5 +1,5 @@
 {
   "indexable": false,
   "language": "INFORMAL",
-  "statement": "Peer-reviewed journals that are #T_reliable."
+  "statement": "Peer-reviewed journals that are #(T_reliable_journal, 'reliable')."
 }

@@ -1,5 +1,5 @@
 {
   "indexable": false,
-  "premises": ["#P_discrete_analysis_SJR"],
-  "conclusion": "#P_discrete_analysis_reliable"
+  "premises": ["#P_ANT_SJR"],
+  "conclusion": "#P_ANT_reliable"
 }

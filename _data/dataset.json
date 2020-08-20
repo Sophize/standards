@@ -13,8 +13,6 @@
     "READ_DATA",
     "COMMENT"
   ],
-  "localAutoApproveArguments": true,
-  "personalDataset": false,
   "subscribedDatasets": [],
   "tags": []
 }

@@ -3,5 +3,6 @@
   "permanentPtr": "#B.default",
   "names": ["Expert Curated"],
   "description": "Belief in mathematical knowledge curated by experts arising from #P_ZFC foundations",
-  "unsupportedPropositionPtrs": ["#P_expert_curated", "#P_ZF", "#P_axiom_of_choice"]
+  "unsupportedPropositionPtrs": ["#P_expert_curated", "#P_ZF", "#P_axiom_of_choice"],
+  "subBeliefsetPtrs": ["#metamath/B_set"]
 }
